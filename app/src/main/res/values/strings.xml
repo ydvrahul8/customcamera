@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomCamera</string>
+    <string name="oval">
+   M32.743,17.892c0,9.042-7.33,13.328-16.371,13.328C7.33,31.22,0,26.934,0,17.892
+			C0,8.851,7.33,1.523,16.372,1.523C25.413,1.523,32.743,8.851,32.743,17.892z
+  </string>
+    <string name="check_camera_permission">Check Camera Permission</string>
+</resources>
